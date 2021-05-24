@@ -32,6 +32,9 @@ nav img{
 .card-title, .card-text{
     text-align: center;
 }
-.cardbody button{
-    align-items: center;
+.buy-now-button, .phone{
+    margin-left: 135px;
+}
+h6{
+    color: rgb(228, 163, 41);
 }
