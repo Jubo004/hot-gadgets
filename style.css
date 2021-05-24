@@ -1,0 +1,9 @@
+nav img{
+    width: 70%;
+}
+.buy-now-button{
+    background-color: black;
+    border-radius: 5px;
+    color: white;
+    padding: 5px;
+}
