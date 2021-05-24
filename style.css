@@ -1,3 +1,5 @@
+
+
 nav img{
     width: 70%;
 }
@@ -6,4 +8,19 @@ nav img{
     border-radius: 5px;
     color: white;
     padding: 5px;
+}
+.carousel-item{
+    
+    background-image: url("images/bg-1.png");
+    
+    background-repeat: no-repeat;
+    background-position: 700px;;
+
+}
+.container .carousel-item{
+    margin-top:50px;
+}
+.car-img{
+    width:250px;;
+    margin-bottom: 70;
 }
